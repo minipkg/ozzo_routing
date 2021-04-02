@@ -23,6 +23,8 @@ github.com/minipkg/selection_condition v0.0.0-20210401144713-f78db8cd1f52 h1:J03
 github.com/minipkg/selection_condition v0.0.0-20210401144713-f78db8cd1f52/go.mod h1:cEXwRaw2C1erzCMchjEFauuH4vS/+Hm53j2eY8XGkzA=
 github.com/minipkg/selection_condition v0.0.1 h1:XycxS93rn5MQbOpTj1i4GPISQMsh5rMZ8/EijYI+8Ow=
 github.com/minipkg/selection_condition v0.0.1/go.mod h1:Tb9I1xqD7rBBtMHcHKgN3mareh3VwVE4+lffzATo/jY=
+github.com/minipkg/selection_condition v0.0.2 h1:sCLJMTJQy39A5z9I1YCuIZ3mdADizfAgOoQ2IoVA2Zc=
+github.com/minipkg/selection_condition v0.0.2/go.mod h1:Tb9I1xqD7rBBtMHcHKgN3mareh3VwVE4+lffzATo/jY=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
