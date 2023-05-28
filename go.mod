@@ -3,7 +3,8 @@ module github.com/minipkg/ozzo_routing
 go 1.14
 
 require (
-	github.com/go-ozzo/ozzo-routing/v2 v2.3.0 // indirect
-	github.com/minipkg/log v0.0.0-20210401163336-53d77a21a670 // indirect
-	github.com/minipkg/selection_condition v0.0.2 // indirect
+	github.com/go-ozzo/ozzo-routing/v2 v2.3.0
+	github.com/go-ozzo/ozzo-validation/v4 v4.3.0
+	github.com/minipkg/log v0.0.2-0.20230528091703-1d87aa7eab26
+	github.com/minipkg/selection_condition v0.0.2
 )

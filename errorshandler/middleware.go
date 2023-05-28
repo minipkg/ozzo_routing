@@ -14,7 +14,7 @@ import (
 )
 
 // Handler creates a middleware that handles panics and errors encountered during HTTP request processing.
-func Handler(logger log.ILogger) routing.Handler {
+func Handler(logger log.Logger) routing.Handler {
 	return func(c *routing.Context) (err error) {
 		defer func() {
 			l := logger.With(c.Request.Context())
